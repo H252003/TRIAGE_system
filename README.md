@@ -40,7 +40,8 @@ Tomeasure heart rate, the MAX30100 pulse oximeter detects changes in the amount 
 ![testing spo2](https://github.com/MohamedHisham20/TRIAGE_system/blob/main/photos/testing%20spo2.mp4)
 ![testing color detector](https://github.com/MohamedHisham20/TRIAGE_system/blob/main/photos/testing%20color%20detector.mp4)
 ![implement](https://github.com/MohamedHisham20/TRIAGE_system/blob/main/photos/implement2.jpg)
-![final](https://github.com/MohamedHisham20/TRIAGE_system/blob/main/photos/TRIAGE.mp4)
+![final](https://www.youtube.com/watch?v=0K3N8YqehgQ)
+[![Final](https://www.youtube.com/vi/0K3N8YqehgQ/0.jpg)](https://www.youtube.com/watch?v=0K3N8YqehgQ)
 
 ## Conclusion
 
