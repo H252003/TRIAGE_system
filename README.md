@@ -9,6 +9,7 @@ This project aims to assess vital signs related to electromagnetic and light wav
 - [Skin Color Detection](#skin-color-detection)
 - [Tissue Properties](#tissue-properties)
 - [Light-Tissue Interaction](#light-tissue-interaction)
+- [SnapShots of the project](#Snaps)
 - [Conclusion](#conclusion)
 - [Team Members](#team-members)
 - [Professor](#professor)
@@ -32,6 +33,10 @@ The MAX30100 pulse oximeter is typically placed on a patient's finger or earlobe
 ## Light-Tissue Interaction
 
 Tomeasure heart rate, the MAX30100 pulse oximeter detects changes in the amount of blood in the blood vessels that occur with each heartbeat. As the blood vessels expand and contract with each heartbeat, the amount of light that is reflected back to the sensor changes, allowing the pulse oximeter to calculate the heart rate. To measure oxygen saturation, the MAX30100 pulse oximeter compares the amount of red light and infrared light that is absorbed by the blood vessels. The pulse oximeter can calculate the oxygen saturation of the patient's blood by comparing the ratio of red to infrared light that is absorbed. The TCS3200 color sensor can detect the color of an object by measuring the intensity of red, green, and blue (RGB) light reflected from the object.
+
+## Snaps
+
+![testing spo2](https://github.com/yourusername/yourrepository/images/example.png)
 
 ## Conclusion
 
